@@ -1,0 +1,102 @@
+/* Styling for Web Scraping Project */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #FAEBD7;
+    margin: auto;
+    width: 1000px;
+}
+
+header {
+  font-size: 3.2em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  text-align: center;
+  line-height: 115%;
+  color: #342D27;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8em;
+    font-weight: 300;
+    text-align: center;
+    background-color: #342D27;
+    color: #FFF;
+    padding: 7px;
+    margin-bottom: 8px;
+
+}
+
+h3 {
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  color: #342D27;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #342D27;
+}
+
+h4 {
+  font-size: 1.5em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #698B22;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    color: #342D27;
+    margin-bottom: 8px;
+}
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    font-size: .8em;
+    text-align: center;
+    color: #342D27;
+    margin-top: 5px;
+
+}
+
+#crisis {
+    color: #698B22;
+}
+
+#blog {
+    font-weight: 400;
+    size: 1.5em;
+}
+#facts {
+ margin-top: 15px;  
+
+}
+
+#medical {
+    width: 485px;
+    float: left;
+    margin: auto;
+}
+
+#textile, #textile {
+    width: 485px;
+    float: right;
+    margin: auto;
+}
+
+#teaser {
+    clear: both;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    background-color: #342D27;
+    padding: 5px;
+}
